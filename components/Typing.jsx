@@ -34,7 +34,7 @@ const Typing = () => {
   return (
     <div className="text-center py-10">
       <h1 className="text-3xl font-bold mb-4">Happy Father's Day</h1>
-      <div ref={typingRef} className="text-xl font-medium text-gray-700"></div>
+      <div ref={typingRef} className="text-2xl font-medium text-black-900"></div>
     </div>
   );
 };
